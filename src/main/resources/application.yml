@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: mysql #?? ? ?? ????? ?? ??
+    active: mysql #h2 데이터베이스설정해서 계속 에러뜨는거임 그러므로   on-profile보고 계속 설정 변경해주기
 
 ---
 
